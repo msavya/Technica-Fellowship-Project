@@ -1,3 +1,12 @@
+header {
+  background-color: #73cf76;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
 body {
     background-color: #c1e1c1;
   }
@@ -6,4 +15,6 @@ body {
     display : flex;
     flex-direction: column;
     justify-content: flex-end;
+    width: 100px;
+    padding: 10px 10px;
   }
