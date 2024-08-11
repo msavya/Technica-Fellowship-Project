@@ -1,4 +1,4 @@
-head {
+h1 {
   background-color: #6eca71;
   color: white;
   padding: 10px 20px;
@@ -17,4 +17,8 @@ body {
     justify-content: flex-end;
     width: 350px;
     padding: 10px 10px;
+  }
+
+  img {
+    border: 20px solid #75c273;
   }
