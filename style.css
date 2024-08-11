@@ -1,0 +1,9 @@
+body {
+    background-color: #C1E1C1;
+  }
+
+  .left {
+    display : flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
