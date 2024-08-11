@@ -14,7 +14,7 @@ body {
   .left {
     display : flex;
     flex-direction: column;
-    justify-content: left;
+    justify-content: flex-start;
     width: 350px;
     padding: 10px 10px;
     border: 20px solid #75c273;
@@ -22,7 +22,7 @@ body {
 
   .right {
     display : flex;
-    justify-content: right;
+    justify-content: flex-end;
     padding: 10px 10px;
     border: 20px solid #75c273;
   }
