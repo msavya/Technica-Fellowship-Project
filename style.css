@@ -1,5 +1,5 @@
-header {
-  background-color: #73cf76;
+head {
+  background-color: #6eca71;
   color: white;
   padding: 10px 20px;
   display: flex;
@@ -15,6 +15,6 @@ body {
     display : flex;
     flex-direction: column;
     justify-content: flex-end;
-    width: 100px;
+    width: 350px;
     padding: 10px 10px;
   }
