@@ -20,7 +20,7 @@ body {
     border: 20px solid #75c273;
   }
 
-  .left {
+  .right {
     display : flex;
     justify-content: right;
     padding: 10px 10px;
