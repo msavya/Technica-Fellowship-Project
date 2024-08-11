@@ -14,11 +14,16 @@ body {
   .left {
     display : flex;
     flex-direction: column;
-    justify-content: flex-end;
+    justify-content: left;
     width: 350px;
     padding: 10px 10px;
-  }
-
-  img {
     border: 20px solid #75c273;
   }
+
+  .left {
+    display : flex;
+    justify-content: right;
+    padding: 10px 10px;
+    border: 20px solid #75c273;
+  }
+ 
