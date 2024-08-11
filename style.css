@@ -23,6 +23,7 @@ body {
   .right {
     display : flex;
     justify-content: flex-end;
+    flex-direction: row;
     padding: 10px 10px;
     border: 20px solid #75c273;
   }
