@@ -8,6 +8,10 @@ h1 {
   align-items: center;
 }
 
+p {
+  align-items: center;
+}
+
 body {
     background-color: #c1e1c1;
   }
