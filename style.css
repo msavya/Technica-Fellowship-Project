@@ -12,19 +12,14 @@ body {
   }
 
   .left {
-    display : flex;
     flex-direction: column;
     justify-content: flex-start;
     width: 350px;
-    padding: 10px 10px;
     border: 20px solid #75c273;
   }
 
   .right {
-    display : flex;
     justify-content: flex-end;
-    flex-direction: row;
-    padding: 10px 10px;
     border: 20px solid #75c273;
   }
  
