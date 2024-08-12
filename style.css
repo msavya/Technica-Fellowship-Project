@@ -31,9 +31,10 @@ body {
     justify-content: space-between;
   }
 
-  .right {
+  #Chess-Garden {
+    border: 20px solid #75c273;
     display: flex;
     justify-content: flex-end;
-    border: 20px solid #75c273;
+    align-items: flex-start;
   }
  
