@@ -1,6 +1,7 @@
 h1 {
   background-color: #6eca71;
-  color: white;
+  color: rgb(50, 106, 47);
+  font-style: oblique;
   padding: 10px 20px;
   display: flex;
   flex-direction: row;
@@ -11,14 +12,26 @@ body {
     background-color: #c1e1c1;
   }
 
-  .left {
-    flex-direction: column;
-    justify-content: flex-start;
-    width: 350px;
+  #Tea-Cups {
+    width: 350;
+    padding: 10px, 10px;
     border: 20px solid #75c273;
   }
 
+  #Books-And-Tea {
+   width: 350;
+   padding: 10px, 10px;
+   border: 20px solid #75c273;
+  }
+
+  .left {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
   .right {
+    display: flex;
     justify-content: flex-end;
     border: 20px solid #75c273;
   }
