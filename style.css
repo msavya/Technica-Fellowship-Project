@@ -28,7 +28,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    width: 350px;
+    justify-content: space-between;
   }
 
   .right {
